@@ -33,7 +33,7 @@ const Navbar = () => {
       <Fade cascade damping={0.2} triggerOnce={true}>
         <ul>
           <li>
-            <a href="https://www.artemodnovol18.dev">/Home</a>
+            <a href="https://portfolio-430sn3pzt-artemodnovols-projects.vercel.app/">/Home</a>
           </li>
           {sections.map((section) => {
             return section.enable ? (
