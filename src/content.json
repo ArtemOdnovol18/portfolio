@@ -1,0 +1,316 @@
+{
+  "general": {
+    "first_name": "Artem",
+    "last_name": "Odnovol",
+    "navbar_social_links": {
+      "github": "https://github.com/artemodnovol18",
+      "resume": "/resume",
+      "linkedin": "https://www.linkedin.com/in/artemodnovol18",
+      "email": "artemodnovol18@gmail.com"
+    }
+  },
+  "repo_stats": {
+    "section": {
+      "enable_section": true
+    },
+    "repo_link": "https://github.com/artemodnovol18",
+    "api_link": "https://api.github.com/repos/artemodnovol18/Reactfolio"
+  },
+  "intro_screen": {
+    "section": {
+      "enable_section": true
+    },
+    "main_header": "Hello, Artem Odnovol here.",
+    "main_subtitle": "If(alive === true){ return make_project();}",
+    "intro_bio": [
+      "Programmer and Software Enthusiast with a deep passion for creating innovative and efficient solutions through coding. With over 8 years of experience, I thrive on solving complex problems and developing high-quality software. Always eager to learn new technologies and explore the latest trends in the programming world. Whether it's building scalable applications, optimizing performance, or mentoring teams, my love for programming drives me to continuously improve and deliver results. I'm always looking for opportunities to challenge myself and contribute to exciting projects in the tech industry."
+     
+    ],
+    "email_button": "Say hello to me!"
+  },
+  "about_me": {
+    "section": {
+      "enable_section": true,
+      "title": "~/About",
+      "navbar_name": "/About",
+      "description": "Programmer and Software Enthusiast with a deep passion for creating innovative and efficient solutions through coding. With over 8 years of experience, I thrive on solving complex problems and developing high-quality software. Always eager to learn new technologies and explore the latest trends in the programming world. Whether it's building scalable applications, optimizing performance, or mentoring teams, my love for programming drives me to continuously improve and deliver results. I'm always looking for opportunities to challenge myself and contribute to exciting projects in the tech industry.building "
+    },
+    "headShotUrl": "../assets/portrait.png",
+    "bio": [
+      "Senior C# .NET Engineer with over 8 years of experience at leading companies like SoftServe, EPAM Systems, and Luxoft. Skilled in developing and maintaining high-performance applications using .NET Core, ASP.NET Core, and microservices architecture. Proven track record in modernizing legacy systems, integrating third-party services, and optimizing performance. At SoftServe, led the development of a microservices-based financial system serving over 100K users, while at EPAM Systems, successfully migrated applications to .NET Core, enhancing performance and scalability. Adept at mentoring teams, implementing DevOps processes, and ensuring seamless cloud-based solutions using Azure."
+    ],
+    "skills_caption": "Some technologies I've been worked with:",
+    "skills": [
+      "Languages & Frameworks: C#, .NET Core/6/7/8, ASP.NET Core, Entity Framework Core, LINQ ",
+      "Architecture & Patterns: Microservices, DDD, CQRS, SOLID, Clean Architecture, Design Patterns ",
+      "Databases: SQL Server, PostgreSQL, MongoDB, Redis, Dapper ",
+      "Cloud & DevOps: Azure (Azure Functions, App Services, CosmosDB), Docker, Kubernetes, Terraform, CI/CD (Azure DevOps, GitHub Actions)",
+      "Security: OAuth2, JWT, OpenID Connect, API security best practices ",
+      "Testing & Tools: xUnit, Moq, MSTest, SonarQube, ELK Stack, Serilog, Grafana Frontend (Basic Knowledge): React, Angular, Blazor"
+    ]
+  },
+  "academics": {
+    "section": {
+      "enable_section": false,
+      "title": "~/Education",
+      "navbar_name": "/Academics",
+      "description": "Courses that I have completed or am on track to complete. Current GPA: 3.24"
+    },
+    "general": {
+      "school": "Taras Shevchenko National University of Kyiv (2015)",
+      "degree": "Bachelor’s Degree in Computer Science ",
+      "start_year": 2010,
+      "end_year": 2015
+    },
+    "years": [
+      {
+        "year": 2021,
+        "semester": "Fall",
+        "courses": [
+          {
+            "abbreviation": "CS 1310",
+            "name": "C Programming I",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MT 1411",
+            "name": "Pre Calculus",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "EN 1311",
+            "name": "Rhetoric and Composition",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "PL 1301",
+            "name": "Introduction to Philosophy",
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "semester": "Spring",
+        "courses": [
+          {
+            "abbreviation": "CS102",
+            "name": "C Programming II",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "CS 3300",
+            "name": "Intro to Data Analytics Python Programming I",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MT 2412",
+            "name": "Calculus I",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "FYE 1301",
+            "name": "First Year Seminar",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MT 2412",
+            "name": "Multicultural American Lit",
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "semester": "Fall",
+        "courses": [
+          {
+            "abbreviation": "CS 2315",
+            "name": "Algorithms and Data Structure",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "CS 2313",
+            "name": "Object Oriented Programming I",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "CS 2110",
+            "name": "Sophomore CS Seminar",
+            "credits": 1.0
+          },
+          {
+            "abbreviation": "CM 1341",
+            "name": "Intro to Human Communication",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "AR 1300",
+            "name": "Concepts in Visual Arts",
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "semester": "Spring",
+        "courses": [
+          {
+            "abbreviation": "CS 2350",
+            "name": "Computer Architecture",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "CS 2323",
+            "name": "Object Oritented Programming II",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "CS 4375",
+            "name": "Advanced Topics (Python Data Analytics)",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MT 2323",
+            "name": "Discrete Math Structures",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "TH 1301",
+            "name": "Introduction to Thelogy",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "AC 2301",
+            "name": "Financial Accounting",
+            "credits": 3.0
+          }
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "section": {
+      "enable_section": true,
+      "title": "~/Experience",
+      "navbar_name": "/Experience",
+      "description": "My current/past relevant experience. Click [here](/resume) to view my resume."
+    },
+    "experience_items": [
+      {
+        "organization": "DataArt, Kharkiv, Ukraine",
+        "title": "Research Result",
+        "start_date": "January 2016",
+        "end_date": " May 2017",
+        "description": [
+          "Developed enterprise-level software solutions using ASP.NET MVC and .NET Core.",
+          "Designed and implemented database solutions using SQL Server and Entity Framework.",
+          "Created RESTful APIs for internal and external integrations.",
+          "Optimized application performance and implemented caching mechanisms",
+          "Participated in Agile development processes and daily stand-ups."
+         
+        ]
+      },
+      {
+        "organization": "EPAM Systems, Kyiv, Ukraine",
+        "title": "Research Result",
+        "start_date": "Jun 2017",
+        "end_date": "Dec 2020",
+        "description": [
+          "Developed and maintained high-load web applications using .NET Core and Angular.",
+          "Migrated legacy .NET Framework applications to .NET Core for improved performance.",
+          "Implemented JWT-based authentication and role-based authorization",
+          "Integrated third-party services and APIs(with PayPal)",
+          "Improved application logging and monitoring with Serilog and Application Insights."
+        ]
+      },
+      {
+        "organization": "SoftServe, Lviv, Ukraine",
+        "title": "Research Result",
+        "start_date": "Jan 2021",
+        "end_date": "Present",
+        "description": [
+          "Led the development of a microservices-based financial system used by 100K+ users.",
+          "Architected and implemented RESTful APIs with ASP.NET Core and Entity Framework Core.",
+          "Optimized SQL queries and indexing, reducing database latency by 40%.",
+          "Integrated Azure Functions and Event-Driven Architecture (RabbitMQ, Kafka).",
+          "Established CI/CD pipelines using Azure DevOps and Docker/Kubernetes for containerization.",
+          "Mentored junior developers and conducted code reviews to ensure best practices."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "section": {
+      "enable_section": true,
+      "title": "~/Projects",
+      "navbar_name": "/Projects",
+      "description": "Some of my most recent or past favorite creations or work."
+    },
+    "project_items": [
+      {
+        "use_git_api": true,
+        "api_github_repo_link": "https://www.softserveinc.com/",
+        "project_name": "microservices-based financial system of SoftServe",
+        "description": "The microservices-based financial system at SoftServe is a scalable and efficient platform designed to handle financial transactions. It uses microservices architecture to break down complex processes into smaller, independent services that can be developed and scaled separately. This system ensures high performance, security, and seamless integration, serving over 100K users.",
+        "resources_used": [" C#", ".NET Core", "ASP.NET Core", "SQL"],
+        "start_date": "Jan 2021",
+        "end_date": "Aug 2023",
+        "links": [
+          {
+            "href": "https://www.softserveinc.com/",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit this platform"
+          }
+        ]
+      },
+      {
+        "use_git_api": true,
+        "api_github_repo_link": "",
+        "project_name": "EPAM Systems",
+        "description": "At EPAM, I develop high-load web applications using .NET Core and Angular, ensuring scalability and performance. I have experience modernizing legacy systems by migrating them to .NET Core and integrating third-party APIs like Stripe, PayPal, and Twilio. Additionally, I enhance system reliability by implementing advanced logging and monitoring with Serilog and Application Insights",
+        "resources_used": ["C# & .NET Core", "Angular & TypeScript ", "SQL",""],
+        "start_date": "Dec 2018",
+        "end_date": "Sep 2019",
+        "links": [
+          {
+            "href": "https://www.epam.com/",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit this platform"
+          }
+        ]
+      },
+      {
+        "use_git_api": true,
+        "api_github_repo_link": "https://api.github.com/repos/artemodnovol18/ArtemOdnovol",
+        "project_name": "DataArt Systems",
+        "description": "At DataArt, I developed enterprise software using ASP.NET MVC and .NET Core, focusing on performance and scalability. I designed and implemented RESTful APIs for seamless internal and external integrations. Additionally, I optimized application efficiency by implementing caching strategies to enhance responsiveness.",
+        "resources_used": [
+          "C#",
+          "ASP.NET MVC & .NET Core",
+          "RESTful APIs",
+          "SQL",
+          "JSON & HTTP Protocols",
+          "Caching"
+        ],
+        "start_date": "Aug 2016",
+        "end_date": "Mar 2017",
+        "links": [
+          {
+            "href": "https://dataart.com",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "line_one": "",
+    "copyright_line": "All rights reserved."
+  },
+  "error_page": {
+    "title": "Error 404",
+    "description": "The page you are looking for does not exist. Chose one of the following links to continue."
+  }
+}
